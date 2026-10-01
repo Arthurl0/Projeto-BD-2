@@ -1,7 +1,7 @@
 # Projeto Banco de Dados 2
 
 ## Criação do Banco de Dados (DDL) e Inserção de dados iniciais (DML)
-Para realizar a criação e inserção de dados no banco PostgreSQL é necessário executar o comando integral contido em \Projeto-BD-2-main\backup.sql
+É necessário criar um database nomeado "Academia" no PostgreSQL. Para realizar a criação e inserção de dados no banco PostgreSQL é necessário executar o comando integral contido em \Projeto-BD-2-main\backup.sql
 
 ## Alterando usuário e senha do banco de dados  
 Para alterar as credenciais relacionadas ao usuário do banco PostreSQL é necessário alterar no arquivo \Projeto-BD-2-main\src\Conexao.java :
