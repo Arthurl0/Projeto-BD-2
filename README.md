@@ -4,7 +4,9 @@
 Para realizar a criação e inserção de dados no banco PostgreSQL é necessário executar o comando integral contido em \Projeto-BD-2-main\backup.sql
 
 ## Alterando usuário e senha do banco de dados  
-Para alterar as credenciais relacionadas ao usuário do banco PostreSQL é necessário alterar no arquivo \Projeto-BD-2-main\src\Conexao.java
+Para alterar as credenciais relacionadas ao usuário do banco PostreSQL é necessário alterar no arquivo \Projeto-BD-2-main\src\Conexao.java :
+`String user = "postgres";`
+`String senha = "udesc";`
 
 ## Instruções de Compilação
 Execute o seguinte comando no terminal no caminho \Projeto-BD-2-main para compilar a aplicação:
